@@ -1,9 +1,12 @@
 {
-  "name": "Your App Name",
+  "name": "arrmeanproject",
   "version": "0.0.1",
   "private": true,
   "scripts": {
     "start": "node app.js"
+  },
+  "engines": {
+    "node": "4.4.3"
   },
   "dependencies": {
     "express": "^4.12.4"
